@@ -47,8 +47,8 @@ Suggestions: \n
 """
 
 # streamlit app
-st.title("Smart ATS")
-st.text("Improve Your Resume ATS")
+st.title("Resume Refiner")
+st.text("Enhance the quality of your resume")
 jd = st.text_area("Paste the Job Description")
 uploaded_file = st.file_uploader(
     "Upload Your Resume", type="pdf", help="Please uplaod the pdf")
