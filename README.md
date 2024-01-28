@@ -3,7 +3,7 @@
 This is a resume refiner app built using Gemini Pro and Streamlit. The app takes a job description (JD) and a resume as input, and outputs information including JD Match percentage, Missing Keywords, Profile Summary, and Suggestions.
 
 ## Live Link
-[Example Link](https://resumerefiner.streamlit.app/)
+[Live Link](https://resumerefiner.streamlit.app/)
 
 ## Requirements
 - Streamlit
