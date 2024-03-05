@@ -7,7 +7,7 @@ import json
 
 load_dotenv()  # load all our environment variables
 
-genai.configure(api_key="AIzaSyD0_smZY0nvfVmdaRgm6PIMV1Dzr2cb5Tc")
+genai.configure(api_key="AIzaSyAHdGoK3fyNHKDZ7vK1lg7gIEAbIbXIlO0")
 
 
 def get_gemini_repsonse(input):
